@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+// jscs:disable ${1:which rules}
+// jscs:enable
+]]>
+	</content>
+	<tabTrigger>jscs-disable</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
