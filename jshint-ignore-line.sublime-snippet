@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[// jshint ignore:line]]>
+	</content>
+	<tabTrigger>jshintl</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
